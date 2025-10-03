@@ -30,8 +30,6 @@ This repository demonstrates how multivariate econometric models (VAR/VECM) can 
 
 
 
-
-# The Effects of the Economic Crisis on Tourism
 ## Data Source
 
 The multivariate analysis uses a dataset composed of six variables: unemployment rate, fixed-base gross domestic product index (2015=100), number of tourist arrivals relative to the population of the corresponding year, exchange rate, and fixed-base inflation index (2015=100). The time interval for the analysis is organized quarterly, covering the period between the first quarter of 2008 and the last quarter of 2024. In the case of monthly data, conversion operations (sum and average) were applied to transform them into quarterly data. For annual data, such as the share of tourism in GDP, the conversion into quarterly information was performed by weighting with quarterly GDP, in order to achieve a more accurate distribution. Data sources include information extracted from Eurostat and INSEE.
